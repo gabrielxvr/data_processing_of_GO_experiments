@@ -1,7 +1,7 @@
 # Graphene Oxide as a component in gel nails.
 This is a repository relative to the research about some applications of Graphene Oxide (GO) made by brazillian students of Ilum School of Science.
 
-The code utilizated to process the data of FTIR is demonstrated in "Tratamento de dados - FTIR.pynp".
+The code utilizated to process the data of FTIR is demonstrated in "Tratamento de dados - FTIR.pynp". And the data obtained from the FTIR is in "Dados - FTIR". 
 
 ![Caracterização do Óxido de Grafeno - FTIR](https://user-images.githubusercontent.com/107067724/198566228-62cc56ab-55ce-4d00-a067-454475874803.png)
 
